@@ -1,0 +1,3 @@
+v[2] = 5; //non-constant for this one as we are changing the operator
+
+int a = v[10]; //constant operator for this one

@@ -1,0 +1,133 @@
+Char datatype
+
+
+
+
+
+The element(s) in v after insert are: B,
+The size of the vector v: 1
+
+The element(s) in v after insert are: A, B,
+The size of the vector v: 2
+
+The element(s) in v after insert are: A, B, , , , , , , , , D,
+The size of the vector v: 11
+
+The element(s) in v after remove are: A, B, , , , , , , , D,
+The size of the vector v: 10
+
+The element(s) in v after replace are: A, B, E, , , , , , , D,
+The size of the vector v: 10
+
+The element(s) of v1 after copy from v are: A, B, E, , , , , , , D,
+The size of the vector v1: 10
+
+The element(s) of v1 after replace are: Y, B, E, , , , , , , D,
+
+The element(s) v2 after insert are: K,
+The size of the vector v2: 1
+
+The element(s) v2 after copy from v1 are: Y,
+The size of the vector v2: 1
+
+The element(s) v after inserting elements: L, Z, K, G, B, Y,
+The size of the vector v2 : 6
+
+The max index of v2 is : 1
+The element at the max index of v2 is : Z
+
+The sorted max for v2 is: B, G, K, L, Y, Z,
+The elements of the vector v2 are: B, G, K, L, Y, Z, , , , , , , , , S,
+The size of the vector v2: 15
+
+
+
+
+ Int datatype
+
+
+
+
+
+The element(s) vi after insert are: 1,
+The size of the vector vi: 1
+
+The element(s) vi after insert are: 2, 1,
+The size of the vector vi: 2
+
+The element(s) vi after insert are: 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 3,
+
+The size of the vector vi: 11
+
+The element(s) vi after remove are: 2, 1, 0, 0, 0, 0, 0, 0, 0, 3,
+The size of the vector vi: 10
+
+The element(s) vi after replace are: 2, 1, 4, 0, 0, 0, 0, 0, 0, 3,
+The size of the vector vi: 10
+
+The element(s) of vi1 after copy from v: 2, 1, 4, 0, 0, 0, 0, 0, 0, 3,
+The size of the vector vi1: 10
+
+The element(s) of v1 after the replace: 2, 1, 5, 0, 0, 0, 0, 0, 0, 3,
+
+The element(s) vi2 after insert are: 1,
+The size of the vector vi2: 1
+
+The element(s) v2 after copy from v1: 2,
+The size of the vector v2: 1
+
+The element(s) v after insert are: 6, 7, 9, 4, 8, 2,
+The size of the vector v2 : 6
+
+The max index of vi2 is : 2
+The element at the max index of v2 is : 9
+
+The sorted max for v2 is: 2, 4, 6, 7, 8, 9,
+The elements of the vector v2 after replace are: 2, 4, 6, 7, 8, 9, 0, 0, 0, 0, 0, 0, 0, 0, 10,
+The size of the vector v2: 15
+
+
+
+
+ Int datatype
+
+
+
+
+
+The element(s) vd after insert are: 1.5,
+The size of the vector vd: 1
+
+The element(s) vd after insert are: 2.8, 1.5,
+The size of the vector vd: 2
+
+The element(s) vd after insert are: 2.8, 1.5, 0, 0, 0, 0, 0, 0, 0, 0, 3.34,
+
+The size of the vector vd: 11
+
+The element(s) vd after remove are: 2.8, 0, 0, 0, 0, 0, 0, 0, 0, 3.34,
+The size of the vector vd: 10
+
+The element(s) vd after replace are: 2.8, 0, 4.89, 0, 0, 0, 0, 0, 0, 3.34,
+The size of the vector vd: 10
+
+The element(s) of vd1 after copy from vd: 2.8, 0, 4.89, 0, 0, 0, 0, 0, 0, 3.34,
+The size of the vector vd1: 10
+
+The element(s) of vd1 after the replace: 2.8, 0, 5.2, 0, 0, 0, 0, 0, 0, 3.34,
+
+The element(s) vd2 after insert are: 1.11,
+The size of the vector vd2: 1
+
+The element(s) v2 after copy from vd1: 2.8,
+The size of the vector vd2: 1
+
+The element(s) v after inserting elements: 6.6, 7.8, 9.1, 4.5, 8.3, 2.8,
+The size of the vector v2 : 6
+
+The max index of vd2 is : 2
+The element at the max index of vd2 is : 9.1
+
+The sorted max for vd2 is: 2.8, 4.5, 6.6, 7.8, 8.3, 9.1,
+The elements of the vector vd2 after replace are: 2.8, 4.5, 6.6, 7.8, 8.3, 9.1,
+The size of the vector vd2: 6
