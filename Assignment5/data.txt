@@ -1,0 +1,40 @@
+Albany, 1770
+Detriot, 1317
+Norfolk, 1384
+El Paso, 723
+Orlando, 969
+Baltimore, 1454
+Boston, 1856
+Albuquerque, 890
+EL Paso, 723
+Oklahoma City, 455
+Atlanta, 797
+Fargo, 1334
+Omaha, 911
+Grand Junction, 1187
+Billings, 1676
+Hartford, 1756
+Philadelphia, 1572
+Birmingham, 671
+Indianapolis, 1025
+Phoenix, 1189
+Boise, 1951
+Jackson, 442
+Pittsburgh, 1347
+Jacksonville, 875
+Chicago, 1985
+Buffalo, 1495
+Kanas City, 732
+Portland, 2371
+Charleston, 1113
+Las Vegas, 1468
+Rapid City, 1316
+Charleston, 1170
+Little Rock, 434
+Reno, 1913
+Charlotte, 1040
+Los Angeles, 1560
+St. Louis MO, 837
+Cheyenne, 1221
+Louisville, 954
+Salt Lake City, 1650
